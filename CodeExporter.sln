@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeExporter", "DeckCodeTracker\CodeExporter.csproj", "{98005CB1-A95C-446C-A981-9E3CB940C288}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98005CB1-A95C-446C-A981-9E3CB940C288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98005CB1-A95C-446C-A981-9E3CB940C288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98005CB1-A95C-446C-A981-9E3CB940C288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98005CB1-A95C-446C-A981-9E3CB940C288}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF10D164-C001-4E3C-BD58-446B5196CCF8}
+	EndGlobalSection
+EndGlobal
